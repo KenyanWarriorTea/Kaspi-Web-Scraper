@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Kaspi Web Scraper (improved)
+Kaspi Web Scraper 
 Simple, modular scraper that:
 - fetches listing pages
 - extracts product cards (name, price, link)
